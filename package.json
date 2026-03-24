@@ -1,0 +1,13 @@
+{
+  "name": "@canopy-mvp/merchant-docs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "lint": "eslint src/"
+  },
+  "dependencies": {
+    "docusaurus": "^3.0.0"
+  }
+}

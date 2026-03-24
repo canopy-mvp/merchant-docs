@@ -1,2 +1,10 @@
 # merchant-docs
-Public-facing merchant API documentation
+
+Merchant-facing API documentation
+
+## Getting Started
+
+```bash
+npm install
+npm run build
+```
